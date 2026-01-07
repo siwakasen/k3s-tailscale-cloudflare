@@ -1,5 +1,5 @@
-## Script for Installing K3s with Tailscale and Cloudflare Tunnel
-<a href="https://k3s.io/">
+## Scripts for Installing K3s with Tailscale and Cloudflare Tunnel
+
 <img src="./k3s-logo-light.svg" height="100" alt="k3s logo" />
 </a>
 
